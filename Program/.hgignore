@@ -1,0 +1,5 @@
+syntax: glob
+Mvc3SignalR/bin/Microsoft.Web.Infrastructure.dll
+Mvc3SignalR/bin/Microsoft.Web.Infrastructure.xml
+Mvc3SignalR/obj/Debug/Chatty.csproj.FileListAbsolute.txt
+Mvc3SignalR/obj/Debug/ResolveAssemblyReference.cache
